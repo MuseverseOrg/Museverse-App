@@ -1,0 +1,33 @@
+{
+    "canvases": [
+        {
+            "x": 490.0,
+            "y": 79.0,
+            "w": 393.0,
+            "h": 808.0,
+            "widget": "const TourListPage()",
+            "deps": [
+                "lib/pages/tour_list_page.dart"
+            ]
+        },
+        {
+            "x": 155.0,
+            "y": 315.0,
+            "w": 300.0,
+            "widget": "const TourListTile()",
+            "deps": [
+                "lib/tour_list_tile.dart"
+            ]
+        },
+        {
+            "x": 932.0,
+            "y": 79.0,
+            "w": 393.0,
+            "h": 808.0,
+            "widget": "const ViewTour()",
+            "deps": [
+                "lib/pages/view_tour.dart"
+            ]
+        }
+    ]
+}

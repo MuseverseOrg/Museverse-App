@@ -1,0 +1,596 @@
+{
+    "paths": {
+        "/": {
+            "get": {
+                "collection": "MuseverseData",
+                "operationId": "SponsorData",
+                "summary": "Nowa Auto Generated",
+                "description": "",
+                "responses": {
+                    "200": {
+                        "description": "Success",
+                        "content": {
+                            "application/json": {
+                                "schema": {
+                                    "type": "object"
+                                },
+                                "value": null
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "https://aitable.ai/fusion/v1/datasheets/dst2CNfRR0w3d1RCMe/records": {
+            "get": {
+                "collection": "MuseverseData",
+                "operationId": "TourData",
+                "summary": "Nowa Auto Generated",
+                "description": "",
+                "responses": {
+                    "200": {
+                        "description": "Success",
+                        "content": {
+                            "application/json": {
+                                "schema": {
+                                    "type": "object"
+                                },
+                                "value": {
+                                    "code": 0,
+                                    "success": false,
+                                    "data": {
+                                        "total": 0,
+                                        "records": [
+                                            {
+                                                "recordId": "[recordId]",
+                                                "createdAt": 0,
+                                                "updatedAt": 0,
+                                                "fields": {
+                                                    "Place-website-url": "[placeWebsiteUrl]",
+                                                    "TourImage": [
+                                                        {
+                                                            "id": "[id]",
+                                                            "name": "[name]",
+                                                            "size": 0,
+                                                            "mimeType": "[mimeType]",
+                                                            "token": "[token]",
+                                                            "width": 0,
+                                                            "height": 0,
+                                                            "url": "[url]"
+                                                        },
+                                                        {
+                                                            "id": "[id]",
+                                                            "name": "[name]",
+                                                            "size": 0,
+                                                            "mimeType": "[mimeType]",
+                                                            "token": "[token]",
+                                                            "width": 0,
+                                                            "height": 0,
+                                                            "url": "[url]"
+                                                        },
+                                                        {
+                                                            "id": "[id]",
+                                                            "name": "[name]",
+                                                            "size": 0,
+                                                            "mimeType": "[mimeType]",
+                                                            "token": "[token]",
+                                                            "width": 0,
+                                                            "height": 0,
+                                                            "url": "[url]"
+                                                        }
+                                                    ],
+                                                    "Tour State": "[tourState]",
+                                                    "Tour Sponsor URL": "[tourSponsorURL]",
+                                                    "Tour-Creator": "[tourCreator]",
+                                                    "Sponsor Rate": "[sponsorRate]",
+                                                    "Tour Name": "[tourName]",
+                                                    "Place-Description": "[placeDescription]",
+                                                    "Tour Source URL": "[tourSourceURL]",
+                                                    "Tour Sponsor Name": "[tourSponsorName]",
+                                                    "Tour Sponsor Logo": [
+                                                        {
+                                                            "id": "[id]",
+                                                            "name": "[name]",
+                                                            "size": 0,
+                                                            "mimeType": "[mimeType]",
+                                                            "token": "[token]",
+                                                            "width": 0,
+                                                            "height": 0,
+                                                            "url": "[url]"
+                                                        },
+                                                        {
+                                                            "id": "[id]",
+                                                            "name": "[name]",
+                                                            "size": 0,
+                                                            "mimeType": "[mimeType]",
+                                                            "token": "[token]",
+                                                            "width": 0,
+                                                            "height": 0,
+                                                            "url": "[url]"
+                                                        },
+                                                        {
+                                                            "id": "[id]",
+                                                            "name": "[name]",
+                                                            "size": 0,
+                                                            "mimeType": "[mimeType]",
+                                                            "token": "[token]",
+                                                            "width": 0,
+                                                            "height": 0,
+                                                            "url": "[url]"
+                                                        }
+                                                    ],
+                                                    "Tour-Creator-URL": "[tourCreatorURL]",
+                                                    "Tour City": "[tourCity]",
+                                                    "Tour Country": "[tourCountry]",
+                                                    "Tour Number": 0,
+                                                    "Sponsor Start Date": "[sponsorStartDate]",
+                                                    "Tour Creator Logo": [
+                                                        {
+                                                            "id": "[id]",
+                                                            "name": "[name]",
+                                                            "size": 0,
+                                                            "mimeType": "[mimeType]",
+                                                            "token": "[token]",
+                                                            "width": 0,
+                                                            "height": 0,
+                                                            "url": "[url]"
+                                                        },
+                                                        {
+                                                            "id": "[id]",
+                                                            "name": "[name]",
+                                                            "size": 0,
+                                                            "mimeType": "[mimeType]",
+                                                            "token": "[token]",
+                                                            "width": 0,
+                                                            "height": 0,
+                                                            "url": "[url]"
+                                                        },
+                                                        {
+                                                            "id": "[id]",
+                                                            "name": "[name]",
+                                                            "size": 0,
+                                                            "mimeType": "[mimeType]",
+                                                            "token": "[token]",
+                                                            "width": 0,
+                                                            "height": 0,
+                                                            "url": "[url]"
+                                                        }
+                                                    ],
+                                                    "Sponsor End Date": "[sponsorEndDate]",
+                                                    "Tour Continent": "[tourContinent]"
+                                                }
+                                            },
+                                            {
+                                                "recordId": "[recordId]",
+                                                "createdAt": 0,
+                                                "updatedAt": 0,
+                                                "fields": {
+                                                    "Place-website-url": "[placeWebsiteUrl]",
+                                                    "TourImage": [
+                                                        {
+                                                            "id": "[id]",
+                                                            "name": "[name]",
+                                                            "size": 0,
+                                                            "mimeType": "[mimeType]",
+                                                            "token": "[token]",
+                                                            "width": 0,
+                                                            "height": 0,
+                                                            "url": "[url]"
+                                                        },
+                                                        {
+                                                            "id": "[id]",
+                                                            "name": "[name]",
+                                                            "size": 0,
+                                                            "mimeType": "[mimeType]",
+                                                            "token": "[token]",
+                                                            "width": 0,
+                                                            "height": 0,
+                                                            "url": "[url]"
+                                                        },
+                                                        {
+                                                            "id": "[id]",
+                                                            "name": "[name]",
+                                                            "size": 0,
+                                                            "mimeType": "[mimeType]",
+                                                            "token": "[token]",
+                                                            "width": 0,
+                                                            "height": 0,
+                                                            "url": "[url]"
+                                                        }
+                                                    ],
+                                                    "Tour State": "[tourState]",
+                                                    "Tour Sponsor URL": "[tourSponsorURL]",
+                                                    "Tour-Creator": "[tourCreator]",
+                                                    "Sponsor Rate": "[sponsorRate]",
+                                                    "Tour Name": "[tourName]",
+                                                    "Place-Description": "[placeDescription]",
+                                                    "Tour Source URL": "[tourSourceURL]",
+                                                    "Tour Sponsor Name": "[tourSponsorName]",
+                                                    "Tour Sponsor Logo": [
+                                                        {
+                                                            "id": "[id]",
+                                                            "name": "[name]",
+                                                            "size": 0,
+                                                            "mimeType": "[mimeType]",
+                                                            "token": "[token]",
+                                                            "width": 0,
+                                                            "height": 0,
+                                                            "url": "[url]"
+                                                        },
+                                                        {
+                                                            "id": "[id]",
+                                                            "name": "[name]",
+                                                            "size": 0,
+                                                            "mimeType": "[mimeType]",
+                                                            "token": "[token]",
+                                                            "width": 0,
+                                                            "height": 0,
+                                                            "url": "[url]"
+                                                        },
+                                                        {
+                                                            "id": "[id]",
+                                                            "name": "[name]",
+                                                            "size": 0,
+                                                            "mimeType": "[mimeType]",
+                                                            "token": "[token]",
+                                                            "width": 0,
+                                                            "height": 0,
+                                                            "url": "[url]"
+                                                        }
+                                                    ],
+                                                    "Tour-Creator-URL": "[tourCreatorURL]",
+                                                    "Tour City": "[tourCity]",
+                                                    "Tour Country": "[tourCountry]",
+                                                    "Tour Number": 0,
+                                                    "Sponsor Start Date": "[sponsorStartDate]",
+                                                    "Tour Creator Logo": [
+                                                        {
+                                                            "id": "[id]",
+                                                            "name": "[name]",
+                                                            "size": 0,
+                                                            "mimeType": "[mimeType]",
+                                                            "token": "[token]",
+                                                            "width": 0,
+                                                            "height": 0,
+                                                            "url": "[url]"
+                                                        },
+                                                        {
+                                                            "id": "[id]",
+                                                            "name": "[name]",
+                                                            "size": 0,
+                                                            "mimeType": "[mimeType]",
+                                                            "token": "[token]",
+                                                            "width": 0,
+                                                            "height": 0,
+                                                            "url": "[url]"
+                                                        },
+                                                        {
+                                                            "id": "[id]",
+                                                            "name": "[name]",
+                                                            "size": 0,
+                                                            "mimeType": "[mimeType]",
+                                                            "token": "[token]",
+                                                            "width": 0,
+                                                            "height": 0,
+                                                            "url": "[url]"
+                                                        }
+                                                    ],
+                                                    "Sponsor End Date": "[sponsorEndDate]",
+                                                    "Tour Continent": "[tourContinent]"
+                                                }
+                                            },
+                                            {
+                                                "recordId": "[recordId]",
+                                                "createdAt": 0,
+                                                "updatedAt": 0,
+                                                "fields": {
+                                                    "Place-website-url": "[placeWebsiteUrl]",
+                                                    "TourImage": [
+                                                        {
+                                                            "id": "[id]",
+                                                            "name": "[name]",
+                                                            "size": 0,
+                                                            "mimeType": "[mimeType]",
+                                                            "token": "[token]",
+                                                            "width": 0,
+                                                            "height": 0,
+                                                            "url": "[url]"
+                                                        },
+                                                        {
+                                                            "id": "[id]",
+                                                            "name": "[name]",
+                                                            "size": 0,
+                                                            "mimeType": "[mimeType]",
+                                                            "token": "[token]",
+                                                            "width": 0,
+                                                            "height": 0,
+                                                            "url": "[url]"
+                                                        },
+                                                        {
+                                                            "id": "[id]",
+                                                            "name": "[name]",
+                                                            "size": 0,
+                                                            "mimeType": "[mimeType]",
+                                                            "token": "[token]",
+                                                            "width": 0,
+                                                            "height": 0,
+                                                            "url": "[url]"
+                                                        }
+                                                    ],
+                                                    "Tour State": "[tourState]",
+                                                    "Tour Sponsor URL": "[tourSponsorURL]",
+                                                    "Tour-Creator": "[tourCreator]",
+                                                    "Sponsor Rate": "[sponsorRate]",
+                                                    "Tour Name": "[tourName]",
+                                                    "Place-Description": "[placeDescription]",
+                                                    "Tour Source URL": "[tourSourceURL]",
+                                                    "Tour Sponsor Name": "[tourSponsorName]",
+                                                    "Tour Sponsor Logo": [
+                                                        {
+                                                            "id": "[id]",
+                                                            "name": "[name]",
+                                                            "size": 0,
+                                                            "mimeType": "[mimeType]",
+                                                            "token": "[token]",
+                                                            "width": 0,
+                                                            "height": 0,
+                                                            "url": "[url]"
+                                                        },
+                                                        {
+                                                            "id": "[id]",
+                                                            "name": "[name]",
+                                                            "size": 0,
+                                                            "mimeType": "[mimeType]",
+                                                            "token": "[token]",
+                                                            "width": 0,
+                                                            "height": 0,
+                                                            "url": "[url]"
+                                                        },
+                                                        {
+                                                            "id": "[id]",
+                                                            "name": "[name]",
+                                                            "size": 0,
+                                                            "mimeType": "[mimeType]",
+                                                            "token": "[token]",
+                                                            "width": 0,
+                                                            "height": 0,
+                                                            "url": "[url]"
+                                                        }
+                                                    ],
+                                                    "Tour-Creator-URL": "[tourCreatorURL]",
+                                                    "Tour City": "[tourCity]",
+                                                    "Tour Country": "[tourCountry]",
+                                                    "Tour Number": 0,
+                                                    "Sponsor Start Date": "[sponsorStartDate]",
+                                                    "Tour Creator Logo": [
+                                                        {
+                                                            "id": "[id]",
+                                                            "name": "[name]",
+                                                            "size": 0,
+                                                            "mimeType": "[mimeType]",
+                                                            "token": "[token]",
+                                                            "width": 0,
+                                                            "height": 0,
+                                                            "url": "[url]"
+                                                        },
+                                                        {
+                                                            "id": "[id]",
+                                                            "name": "[name]",
+                                                            "size": 0,
+                                                            "mimeType": "[mimeType]",
+                                                            "token": "[token]",
+                                                            "width": 0,
+                                                            "height": 0,
+                                                            "url": "[url]"
+                                                        },
+                                                        {
+                                                            "id": "[id]",
+                                                            "name": "[name]",
+                                                            "size": 0,
+                                                            "mimeType": "[mimeType]",
+                                                            "token": "[token]",
+                                                            "width": 0,
+                                                            "height": 0,
+                                                            "url": "[url]"
+                                                        }
+                                                    ],
+                                                    "Sponsor End Date": "[sponsorEndDate]",
+                                                    "Tour Continent": "[tourContinent]"
+                                                }
+                                            }
+                                        ],
+                                        "pageNum": 0,
+                                        "pageSize": 0
+                                    },
+                                    "message": "[message]"
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "https://aitable.ai/workbench/dstcweZGFUUB3AWDti/records": {
+            "get": {
+                "collection": "MuseverseData",
+                "operationId": "SponsorData",
+                "summary": "Nowa Auto Generated",
+                "description": "",
+                "responses": {
+                    "200": {
+                        "description": "Success",
+                        "content": {
+                            "application/json": {
+                                "schema": {
+                                    "type": "object"
+                                },
+                                "value": null
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "https://aitable.ai/fusion/v1/datasheets/dstcweZGFUUB3AWDti/records": {
+            "get": {
+                "collection": "MuseverseData",
+                "operationId": "SponsorData",
+                "summary": "Nowa Auto Generated",
+                "description": "",
+                "responses": {
+                    "200": {
+                        "description": "Success",
+                        "content": {
+                            "application/json": {
+                                "schema": {
+                                    "type": "object"
+                                },
+                                "value": {
+                                    "code": 0,
+                                    "success": false,
+                                    "data": {
+                                        "total": 0,
+                                        "records": [
+                                            {
+                                                "recordId": "[recordId]",
+                                                "createdAt": 0,
+                                                "updatedAt": 0,
+                                                "fields": {
+                                                    "Sponsor Description": "[sponsorDescription]",
+                                                    "Sponsor Logo": [
+                                                        {
+                                                            "id": "[id]",
+                                                            "name": "[name]",
+                                                            "size": 0,
+                                                            "mimeType": "[mimeType]",
+                                                            "token": "[token]",
+                                                            "width": 0,
+                                                            "height": 0,
+                                                            "url": "[url]"
+                                                        },
+                                                        {
+                                                            "id": "[id]",
+                                                            "name": "[name]",
+                                                            "size": 0,
+                                                            "mimeType": "[mimeType]",
+                                                            "token": "[token]",
+                                                            "width": 0,
+                                                            "height": 0,
+                                                            "url": "[url]"
+                                                        },
+                                                        {
+                                                            "id": "[id]",
+                                                            "name": "[name]",
+                                                            "size": 0,
+                                                            "mimeType": "[mimeType]",
+                                                            "token": "[token]",
+                                                            "width": 0,
+                                                            "height": 0,
+                                                            "url": "[url]"
+                                                        }
+                                                    ],
+                                                    "Sponsor Gift": "[sponsorGift]",
+                                                    "Sponsor Name": "[sponsorName]",
+                                                    "Sponsor URL": "[sponsorURL]"
+                                                }
+                                            },
+                                            {
+                                                "recordId": "[recordId]",
+                                                "createdAt": 0,
+                                                "updatedAt": 0,
+                                                "fields": {
+                                                    "Sponsor Description": "[sponsorDescription]",
+                                                    "Sponsor Logo": [
+                                                        {
+                                                            "id": "[id]",
+                                                            "name": "[name]",
+                                                            "size": 0,
+                                                            "mimeType": "[mimeType]",
+                                                            "token": "[token]",
+                                                            "width": 0,
+                                                            "height": 0,
+                                                            "url": "[url]"
+                                                        },
+                                                        {
+                                                            "id": "[id]",
+                                                            "name": "[name]",
+                                                            "size": 0,
+                                                            "mimeType": "[mimeType]",
+                                                            "token": "[token]",
+                                                            "width": 0,
+                                                            "height": 0,
+                                                            "url": "[url]"
+                                                        },
+                                                        {
+                                                            "id": "[id]",
+                                                            "name": "[name]",
+                                                            "size": 0,
+                                                            "mimeType": "[mimeType]",
+                                                            "token": "[token]",
+                                                            "width": 0,
+                                                            "height": 0,
+                                                            "url": "[url]"
+                                                        }
+                                                    ],
+                                                    "Sponsor Gift": "[sponsorGift]",
+                                                    "Sponsor Name": "[sponsorName]",
+                                                    "Sponsor URL": "[sponsorURL]"
+                                                }
+                                            },
+                                            {
+                                                "recordId": "[recordId]",
+                                                "createdAt": 0,
+                                                "updatedAt": 0,
+                                                "fields": {
+                                                    "Sponsor Description": "[sponsorDescription]",
+                                                    "Sponsor Logo": [
+                                                        {
+                                                            "id": "[id]",
+                                                            "name": "[name]",
+                                                            "size": 0,
+                                                            "mimeType": "[mimeType]",
+                                                            "token": "[token]",
+                                                            "width": 0,
+                                                            "height": 0,
+                                                            "url": "[url]"
+                                                        },
+                                                        {
+                                                            "id": "[id]",
+                                                            "name": "[name]",
+                                                            "size": 0,
+                                                            "mimeType": "[mimeType]",
+                                                            "token": "[token]",
+                                                            "width": 0,
+                                                            "height": 0,
+                                                            "url": "[url]"
+                                                        },
+                                                        {
+                                                            "id": "[id]",
+                                                            "name": "[name]",
+                                                            "size": 0,
+                                                            "mimeType": "[mimeType]",
+                                                            "token": "[token]",
+                                                            "width": 0,
+                                                            "height": 0,
+                                                            "url": "[url]"
+                                                        }
+                                                    ],
+                                                    "Sponsor Gift": "[sponsorGift]",
+                                                    "Sponsor Name": "[sponsorName]",
+                                                    "Sponsor URL": "[sponsorURL]"
+                                                }
+                                            }
+                                        ],
+                                        "pageNum": 0,
+                                        "pageSize": 0
+                                    },
+                                    "message": "[message]"
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

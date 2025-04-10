@@ -1,0 +1,8 @@
+{
+    "version": "2.0.19",
+    "app": {
+        "name": "Museverse",
+        "bundleId": "com.example.museverse_org"
+    },
+    "main": {}
+}

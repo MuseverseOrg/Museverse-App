@@ -1,0 +1,14 @@
+{
+    "canvases": [
+        {
+            "x": 308.0,
+            "y": 290.0,
+            "w": 119.0,
+            "h": 34.0,
+            "widget": "const BottomBar()",
+            "deps": [
+                "lib/bottom_bar.dart"
+            ]
+        }
+    ]
+}
